@@ -1,0 +1,16 @@
+body {
+    color: blanchedalmond;
+    background-color: steelblue;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  header {
+      padding-top: 20px; 
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+  }
+  h1 {
+      font-family: 'Luckiest Guy', cursive;
+
+  }
